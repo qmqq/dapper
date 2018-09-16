@@ -1,0 +1,426 @@
+{
+  "games": {
+    "仙剑奇侠传": {
+      "identifier": "仙剑奇侠传",
+      "name": {
+        "zh-Hans": "仙剑奇侠传",
+        "zh-Hant": "仙劍奇俠傳",
+        "en": "The Legend of Sword and Fairy"
+      },
+      "releaseYear": 1995,
+      "executable": "PAL!.EXE",
+      "keymaps": {
+        "←→↑↓": "移动",
+        "Alt": "显示菜单、取消操作",
+        "Enter/Ctrl/Space": "对话、调查、菜单选择"
+      },
+      "links": {
+        "仙劍奇俠傳攻略": "https://chiuinan.github.io/game/game/intro/ch/c11/pal/"
+      },
+      "coverFilename": "cover.png"
+    },
+    "模拟城市2000": {
+      "identifier": "模拟城市2000",
+      "name": {
+        "zh-Hans": "模拟城市 2000",
+        "zh-Hant": "模擬城市 2000",
+        "en": "SimCity 2000"
+      },
+      "releaseYear": 1993,
+      "executable": "SC2000.EXE",
+      "cheats": {
+        "cass": "得到金钱250元（15%的概率是灾难）",
+        "vers": "显示版本",
+        "memy": "内存检查",
+        "test": "内存测试",
+        "joke": "海盗鱿鱼俱乐部图片",
+        "damn, darn,or heck": "住宅区的土地改划为教会",
+        "porn": "损失 $3,000"
+      },
+      "links": {
+        "模擬城市2000 - Wikipedia": "https://zh.wikipedia.org/wiki/%E6%A8%A1%E6%93%AC%E5%9F%8E%E5%B8%822000",
+        "SimCity 2000 Cheats for DOS": "http://patcoston.com/co/cheatdos.aspx"
+      },
+      "coverFilename": "cover.jpg"
+    },
+    "美少女梦工厂2": {
+      "identifier": "美少女梦工厂2",
+      "name": {
+        "zh-Hans": "美少女梦工厂 2",
+        "zh-Hant": "美少女夢工廠 2",
+        "en": "Princess Maker 2"
+      },
+      "releaseYear": 1988,
+      "executable": "PM2.COM",
+      "links": {
+        "Princess Maker 2 - Wikipedia": "https://en.wikipedia.org/wiki/Princess_Maker_2"
+      },
+      "coverFilename": "cover.jpg"
+    },
+    "同级生2": {
+      "identifier": "同级生2",
+      "name": {
+        "zh-Hans": "同级生 2",
+        "zh-Hant": "同級生 2",
+        "en": "Dōkyūsei 2"
+      },
+      "releaseYear": 1995,
+      "executable": "START.BAT",
+      "links": {
+        "同级生2 - Wikipedia": "https://zh.wikipedia.org/wiki/同級生2"
+      },
+      "coverFilename": "cover.jpg"
+    },
+    "大富翁3": {
+      "identifier": "大富翁3",
+      "name": {
+        "zh-Hans": "大富翁3",
+        "zh-Hant": "大富翁3",
+        "en": "Rich Man 3"
+      },
+      "releaseYear": 1996,
+      "executable": "PLAY.BAT",
+      "links": {
+        "大富翁3 - Wikipedia": "https://zh.wikipedia.org/wiki/大富翁3"
+      },
+      "coverFilename": "cover.jpg"
+    },
+    "明星志愿1": {
+      "identifier": "明星志愿1",
+      "name": {
+        "zh-Hans": "明星志愿1",
+        "zh-Hant": "明星志願1",
+        "en": "Stardom"
+      },
+      "releaseYear": 1995,
+      "executable": "PLAY.BAT",
+      "links": {
+        "《明星志愿》 - 互动百科": "http://www.baike.com/wiki/《明星志愿》"
+      },
+      "coverFilename": "cover.jpg"
+    },
+    "三国志4": {
+      "identifier": "三国志4",
+      "name": {
+        "zh-Hans": "三国志IV",
+        "zh-Hant": "三國志IV",
+        "en": "Romance of the Three Kingdoms IV: Wall of Fire"
+      },
+      "releaseYear": 1995,
+      "executable": "SAN486.COM",
+      "links": {
+        "三国志IV - Wikipedia": "https://zh.wikipedia.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97IV"
+      },
+      "coverFilename": "cover.jpg"
+    },
+    "金庸群侠传": {
+      "identifier": "金庸群侠传",
+      "name": {
+        "zh-Hans": "金庸群侠传",
+        "zh-Hant": "金庸群俠傳",
+        "en": "Jin Yong Qun Xia Zhuan"
+      },
+      "releaseYear": 1996,
+      "executable": "PLAY.BAT",
+      "links": {
+        "金庸群侠传 - Wikipedia": "https://zh.wikipedia.org/wiki/金庸群俠傳"
+      },
+      "coverFilename": "cover.jpg"
+    },
+    "轩辕剑1": {
+      "identifier": "轩辕剑1",
+      "name": {
+        "zh-Hans": "轩辕剑1",
+        "zh-Hant": "軒轅劍1",
+        "en": "Xuan-Yuan Sword 1"
+      },
+      "releaseYear": 1990,
+      "executable": "PLAY.BAT",
+      "coverFilename": "cover.jpg"
+    },
+    "轩辕剑2": {
+      "identifier": "轩辕剑2",
+      "name": {
+        "zh-Hans": "轩辕剑2",
+        "zh-Hant": "軒轅劍2",
+        "en": "Xuan-Yuan Sword 2"
+      },
+      "releaseYear": 1994,
+      "executable": "SWD2.EXE",
+      "coverFilename": "cover.png"
+    },
+    "皇帝": {
+      "identifier": "皇帝",
+      "name": {
+        "zh-Hans": "皇帝",
+        "zh-Hant": "皇帝",
+        "en": "Emperor"
+      },
+      "releaseYear": 1996,
+      "executable": "SKING.EXE",
+      "coverFilename": "cover.jpg"
+    },
+    "轩辕剑外传：枫之舞": {
+      "identifier": "轩辕剑外传：枫之舞",
+      "name": {
+        "zh-Hans": "轩辕剑外传：枫之舞",
+        "zh-Hant": "軒轅劍外傳：楓之舞",
+        "en": "Xuan-Yuan Sword: Dance of Maple"
+      },
+      "releaseYear": 1995,
+      "executable": "SWDA.EXE",
+      "coverFilename": "cover.jpg"
+    },
+    "疯狂医院": {
+      "identifier": "疯狂医院",
+      "name": {
+        "zh-Hans": "疯狂医院",
+        "zh-Hant": "瘋狂醫院",
+        "en": "Crazy Doctor"
+      },
+      "releaseYear": 1993,
+      "executable": "PLAY.BAT",
+      "coverFilename": "cover.png"
+    },
+    "大航海时代": {
+      "identifier": "大航海时代",
+      "name": {
+        "zh-Hans": "大航海时代",
+        "zh-Hant": "大航海時代",
+        "en": "Uncharted Waters"
+      },
+      "releaseYear": 1991,
+      "executable": "KOEI.COM",
+      "coverFilename": "cover.jpg"
+    },
+    "大航海时代2": {
+      "identifier": "大航海时代2",
+      "name": {
+        "zh-Hans": "大航海时代2",
+        "zh-Hant": "大航海時代2",
+        "en": "Uncharted Waters II"
+      },
+      "releaseYear": 1994,
+      "executable": "KOUKAI2.COM",
+      "coverFilename": "cover.jpg"
+    },
+    "银河英雄传说3SP": {
+      "identifier": "银河英雄传说3SP",
+      "name": {
+        "zh-Hans": "银河英雄传说III SP",
+        "zh-Hant": "銀河英雄傳說III SP",
+        "en": "Legend of the Galactic Heroes III SP"
+      },
+      "releaseYear": 1994,
+      "executable": "GIN3.COM",
+      "coverFilename": "cover.jpg"
+    },
+    "三国志2": {
+      "identifier": "三国志2",
+      "name": {
+        "zh-Hans": "三国志II",
+        "zh-Hant": "三國志II",
+        "en": "Romance of the Three Kingdoms II"
+      },
+      "releaseYear": 1991,
+      "executable": "Koei.bat",
+      "coverFilename": "cover.jpg"
+    },
+    "三国志3": {
+      "identifier": "三国志3",
+      "name": {
+        "zh-Hans": "三国志III",
+        "zh-Hant": "三國志III",
+        "en": "Romance of the Three Kingdoms III"
+      },
+      "releaseYear": 1993,
+      "executable": "KOEI.COM",
+      "coverFilename": "cover.jpg"
+    },
+    "三国志5": {
+      "identifier": "三国志5",
+      "name": {
+        "zh-Hans": "三国志V",
+        "zh-Hant": "三國志V",
+        "en": "Romance of the Three Kingdoms V"
+      },
+      "releaseYear": 1996,
+      "executable": "SAN5.COM",
+      "coverFilename": "cover.png"
+    },
+    "三国志5X": {
+      "identifier": "三国志5X",
+      "name": {
+        "zh-Hans": "三国志V 威力加强版",
+        "zh-Hant": "三國志V 威力加強版",
+        "en": "Romance of the Three Kingdoms V X"
+      },
+      "releaseYear": 1997,
+      "executable": "PLAY.BAT",
+      "coverFilename": "cover.jpg"
+    },
+    "三国志英杰传": {
+      "identifier": "三国志英杰传",
+      "name": {
+        "zh-Hans": "三国志英杰传",
+        "zh-Hant": "三國志英傑傳",
+        "en": "Romance of the Three Kingdoms Heroic Legend"
+      },
+      "releaseYear": 1995,
+      "executable": "REKO3.COM",
+      "coverFilename": "cover.jpg"
+    },
+    "主题医院": {
+      "identifier": "主题医院",
+      "name": {
+        "zh-Hans": "主题医院",
+        "zh-Hant": "杏林也瘋狂",
+        "en": "Theme Hospital"
+      },
+      "releaseYear": 1997,
+      "executable": "HOSPITAL.EXE",
+      "coverFilename": "cover.jpg"
+    },
+    "三国演义": {
+      "identifier": "三国演义",
+      "name": {
+        "zh-Hans": "三国演义",
+        "zh-Hant": "三國演義",
+        "en": "Romance of the Three Kingdoms"
+      },
+      "releaseYear": 1991,
+      "executable": "AA.EXE",
+      "coverFilename": "cover.jpg"
+    },
+    "三界谕邦沛之迷": {
+      "identifier": "三界谕邦沛之迷",
+      "name": {
+        "zh-Hans": "三界谕：邦沛之迷",
+        "zh-Hant": "三界諭：邦沛之謎",
+        "en": "Three Realms encyclical: Bangpei Mystery"
+      },
+      "releaseYear": 1991,
+      "executable": "3K_CRK.COM",
+      "coverFilename": "cover.jpg"
+    },
+    "殖民计划": {
+      "identifier": "殖民计划",
+      "name": {
+        "zh-Hans": "殖民计划",
+        "zh-Hant": "殖民計畫",
+        "en": "Colonial plan"
+      },
+      "releaseYear": 1991,
+      "executable": "APS.BAT",
+      "coverFilename": "cover.png"
+    },
+    "炎龙骑士团2黄金城之谜": {
+      "identifier": "炎龙骑士团2黄金城之谜",
+      "name": {
+        "zh-Hans": "炎龙骑士团II‧黄金城之谜",
+        "zh-Hant": "炎龍騎士團II‧黃金城之謎",
+        "en": "Flame Dragon 2: Legend of Golden Castle"
+      },
+      "releaseYear": 1995,
+      "executable": "FD2.EXE",
+      "coverFilename": "cover.png"
+    },
+    "倚天屠龙记": {
+      "identifier": "倚天屠龙记",
+      "name": {
+        "zh-Hans": "倚天屠龙记",
+        "zh-Hant": "倚天屠龍記",
+        "en": "Heavenly Sword Dragon Slaying Sabe"
+      },
+      "releaseYear": 1994,
+      "executable": "PLAY.BAT",
+      "coverFilename": "cover.jpg"
+    },
+    "信长之野望天翔记": {
+      "identifier": "信长之野望天翔记",
+      "name": {
+        "zh-Hans": "信长之野望·天翔记",
+        "zh-Hant": "信長之野望·天翔記",
+        "en": "Nobunaga no Yabō: Tenshōki"
+      },
+      "releaseYear": 1994,
+      "executable": "TENSHOU.COM",
+      "coverFilename": "cover.jpg"
+    },
+    "信长之野望霸王传": {
+      "identifier": "信长之野望霸王传",
+      "name": {
+        "zh-Hans": "信长之野望·霸王传",
+        "zh-Hant": "信長之野望·霸王傳",
+        "en": "Nobunaga no Yabō: Haouden"
+      },
+      "releaseYear": 1992,
+      "executable": "KOEI.COM",
+      "coverFilename": "cover.jpg"
+    },
+    "金瓶梅": {
+      "identifier": "金瓶梅",
+      "name": {
+        "zh-Hans": "金瓶梅之偷情宝鉴",
+        "zh-Hant": "金瓶梅之偷情寶鑑",
+        "en": "Jin Ping Mei"
+      },
+      "releaseYear": 1997,
+      "executable": "PLAY.BAT",
+      "coverFilename": "cover.png"
+    },
+    "江南才子唐伯虎": {
+      "identifier": "江南才子唐伯虎",
+      "name": {
+        "zh-Hans": "江南才子唐伯虎",
+        "zh-Hant": "江南才子唐伯虎",
+        "en": "JiangNan talent TANG BOHU"
+      },
+      "releaseYear": 1999,
+      "executable": "PLAY.BAT",
+      "coverFilename": "cover.jpg"
+    },
+    "暗棋圣手": {
+      "identifier": "暗棋圣手",
+      "name": {
+        "zh-Hans": "暗棋圣手",
+        "zh-Hant": "暗棋聖手",
+        "en": "Dark Chess Master"
+      },
+      "releaseYear": 1995,
+      "executable": "CHESS.EXE",
+      "coverFilename": "cover.jpg"
+    },
+    "太阁立志传": {
+      "identifier": "太阁立志传",
+      "name": {
+        "zh-Hans": "太阁立志传",
+        "zh-Hant": "太閤立志傳",
+        "en": "Taikō Risshiden"
+      },
+      "releaseYear": 1992,
+      "executable": "PLAY.BAT",
+      "coverFilename": "cover.jpg",
+      "keymaps": {
+        "Enter": "进入游戏"
+      }
+    },
+    "非洲探险2": {
+      "identifier": "非洲探险2",
+      "name": {
+        "zh-Hans": "非洲探险2",
+        "zh-Hant": "非洲探險2",
+        "en": "Crazy Adventure in Africa2"
+      },
+      "releaseYear": 1996,
+      "executable": "PLAY.BAT",
+      "coverFilename": "cover.jpg",
+      "cheats": {
+        "africa-pdmode": "开启作弊模式",
+        "pandaprop": "直接购买道具",
+        "pandamagic": "直接购买法术",
+        "editperson": "修改人物属性"
+      }
+    }
+  }
+}
